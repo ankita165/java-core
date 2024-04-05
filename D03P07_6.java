@@ -1,4 +1,4 @@
-package com.learning.core.day3session1;
+package com.learning.corejava.day3session1;
 
 	
 
